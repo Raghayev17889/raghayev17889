@@ -9,7 +9,8 @@ I have a background in olympiad mathematics and competitive programming, and I'm
 #### 🔬 Selected projects
 | Project | Description |
 |---|---|
-| **[Topological Data Analysis on MNIST](https://github.com/raghayev17889/tda_project)** | Persistent-homology features for digit classification (99.5% test accuracy). Research done in the Directed Reading Program; presented as a [talk](https://youtu.be/KC1UKEftURI?si=HCssA1kTa1WgGmpw&t=14148) at DRP Türkiye 2025 |
+| **[Topological Data Analysis on MNIST](https://github.com/raghayev17889/tda_project)** | Persistent-homology features for digit classification (99.5% test accuracy). Research done in the Directed Reading Program; presented as a talk at DRP Türkiye 2025 |
+| **[Sparse interpretable embeddings](https://github.com/muradhub/sparse-embeddings)** *(team project)* | Reproduction, audit and extension of C-SPINE sparse sentence embeddings: sparsity–fidelity sweeps, TopK / dense-autoencoder ablations, multi-seed evaluation and cross-domain generalization |
 | **[GNN for PPI prediction](https://github.com/raghayev17889/GNN_for_PPI)** | GraphSAGE / GCN (PyTorch Geometric) compared against a graph-theoretic baseline for link prediction on protein interaction networks |
 | **[Snake RL](https://github.com/raghayev17889/snake_rl)** | Deep Q-learning with experience replay and target networks; reward-shaping experiments with automated reporting |
 | **[PPI network analysis](https://github.com/raghayev17889/PPI_network_analysis_with_cytoscape)** | Structural and topological analysis of a biological interaction network |
