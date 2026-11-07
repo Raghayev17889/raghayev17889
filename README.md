@@ -20,4 +20,4 @@ Graphs are my favourite part of both competitive programming and mathematics, an
 Python · PyTorch · PyTorch Geometric · scikit-learn · pandas · SQL · dbt · R · C++
 
 #### 📫 Contact
-[LinkedIn](LINKEDIN_URL) · [Codeforces](CODEFORCES_URL) · raulaga1202@gmail.com
+[LinkedIn]([https://www.linkedin.com/in/raulaghayev/]) · [Codeforces]([https://codeforces.com/profile/CompScientist]) · raulaga1202@gmail.com
